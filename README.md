@@ -31,4 +31,4 @@ En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas d
 >
 
 ## Capturas
-![Imagen del proyecto](https://github.com/eduardofierropro/Yodagram/blob/main/assets/home1.png)
+![Imagen del proyecto](https://github.com/DavidVidal-DelRio/referencias-proyectos/blob/master/laravel-crud/Home.PNG)
