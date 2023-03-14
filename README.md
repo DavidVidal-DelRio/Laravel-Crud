@@ -16,7 +16,7 @@ En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas d
 ** Este es la Version 1.0 del de este proyectto de ejemplo, el cual con el tiempo estare actualizando para mejorar tanto el menu de navegacion, el diseño, y agregando mas funcionalidades ** 
 
 ## Tecnologias utilizadas
-- <imf src="https://img.shields.io/badge/Laravel-v9.52.4-red" alt="Laravel v9.52.4">
+- <img src="https://img.shields.io/badge/Laravel-v9.52.4-red" alt="Laravel v9.52.4">
 - Booststrap v5.2.3
 - Ajax
 - Base de datos Sql
