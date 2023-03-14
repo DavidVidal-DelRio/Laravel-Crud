@@ -26,10 +26,6 @@ En la ruta principal "/" tenemos un gráfico con el valor de la UF y las fechas 
 > Ha sido programado con fines de práctica 
 >
 
-## Indicaciones de uso
-
-
-
 ## Capturas
 ![Imagen del proyecto](https://github.com/DavidVidal-DelRio/referencias-proyectos/blob/master/laravel-crud/Home.PNG)
 ![Imagen del proyecto](https://github.com/DavidVidal-DelRio/referencias-proyectos/blob/master/laravel-crud/Home2.PNG)
