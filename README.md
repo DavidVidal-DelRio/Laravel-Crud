@@ -15,7 +15,7 @@ En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas d
 
 ** Este es la Version 1.0 del de este proyectto de ejemplo, el cual con el tiempo estare actualizando para mejorar tanto el menu de navegacion, el diseño, y agregando mas funcionalidades ** 
 
-## Tecnologias utilizadas
+## Tecnologías utilizadas
 - <img src="https://img.shields.io/badge/Laravel-v9.52.4-red" alt="Laravel v9.52.4">
 - <img src="https://img.shields.io/badge/Booststrap-v5.2.3-blueviolet" alt="Booststrap v5.2.3">
 - <img src="https://img.shields.io/badge/-Ajax-lightgrey" alt="Ajax">
@@ -25,12 +25,10 @@ En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas d
 
 > Aclaraciones:
 >
-> No ha sido probado para tener soporte crossbrowsing
+> El diseño de la web original puede variar en relacion a las capturas de muestra y/o a las tecnologías declaradas.
 >
-> El diseño de la web original puede variar
+> Ha sido programado con fines de práctica 
 >
-> Ha sido programado con fines de entretenimiento
->
-> No lo uses en tu propio portfolio sino como referencia o práctica
 
 ## Capturas
+![Imagen del proyecto](https://github.com/eduardofierropro/Yodagram/blob/main/assets/home1.png)
