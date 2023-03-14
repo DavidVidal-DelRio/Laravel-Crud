@@ -17,7 +17,7 @@ En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas d
 
 ## Tecnologias utilizadas
 - <img src="https://img.shields.io/badge/Laravel-v9.52.4-red" alt="Laravel v9.52.4">
-- Booststrap v5.2.3
+- <img src="https://img.shields.io/badge/Booststrap-v5.2.3-blueviolet" alt="Booststrap v5.2.3">
 - Ajax
 - Base de datos Sql
 - DataTables v1.13.4
