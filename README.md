@@ -23,3 +23,14 @@ En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas d
 - <img src="https://img.shields.io/badge/DataTables%20-v1.13.4-blue" alt="DataTables v1.13.4">
 - <img src="https://img.shields.io/badge/Highcharts-v10.3.3-9cf" alt="Highcharts v10.3.3">
 
+> Aclaraciones:
+>
+> No ha sido probado para tener soporte crossbrowsing
+>
+> El diseño de la web original puede variar
+>
+> Ha sido programado con fines de entretenimiento
+>
+> No lo uses en tu propio portfolio sino como referencia o práctica
+
+## Capturas
