@@ -18,8 +18,8 @@ En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas d
 ## Tecnologias utilizadas
 - <img src="https://img.shields.io/badge/Laravel-v9.52.4-red" alt="Laravel v9.52.4">
 - <img src="https://img.shields.io/badge/Booststrap-v5.2.3-blueviolet" alt="Booststrap v5.2.3">
-- Ajax
-- Base de datos Sql
-- DataTables v1.13.4
-- highcharts
+- <img src="https://img.shields.io/badge/-Ajax-lightgrey" alt="Ajax">
+- <img src="https://img.shields.io/badge/-BD%20SQL-lightgrey" alt="BD SQL">
+- <img src="https://img.shields.io/badge/DataTables%20-v1.13.4-blue" alt="DataTables v1.13.4">
+- <img src="https://img.shields.io/badge/Highcharts-v10.3.3-9cf" alt="Highcharts v10.3.3">
 
