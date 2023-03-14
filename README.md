@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Laravel CRUD 
+## Laravel CRUD v1.0
 
 CRUD realizado con Laravel , such as:
 
