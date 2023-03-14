@@ -5,12 +5,11 @@
 </p>
 
 ## Laravel CRUD v1.0
+CRUD básico realizado con Laravel, cuenta con las 4 operaciones en la ruta "/indicadors" donde también se visualizan los registros de la base de datos, en la base de datos existen más registros de los visualizados(base de datos de ejemplo), ya que se realizan las consultas para trabajar solo con registros de UF.
 
-CRUD basico realizado con Laravel, cuenta con las 4 operaciones en la ruta "/indicadors" donde tambien se visualizan los registros de la base de datos, en la base de datos existen mas registros de los visualizados(base de datos de ejemplo) ya que se realizan las consultas para trabajar solo con registros de UF.
+En la ruta principal "/" tenemos un gráfico con el valor de la UF y las fechas de esta, el cual se puede filtrar mediante un rango de fechas.
 
-En la ruta printipal "/" tenemos un grafico con el valor de la UF y las fechas de esta, el cual se puede filtrar mediantte un rango de fechas.
-
-** Este es la Version 1.0 del de este proyectto de ejemplo, el cual con el tiempo estare actualizando para mejorar tanto el menu de navegacion, el diseño, y agregando mas funcionalidades ** 
+** Este es la Versión 1.0 del de este proyecto de ejemplo, el cual con el tiempo estaré actualizando para mejorar tanto el menú de navegación, el diseño, y agregando más funcionalidades ** 
 
 ## Tecnologías utilizadas
 - <img src="https://img.shields.io/badge/Laravel-v9.52.4-red" alt="Laravel v9.52.4">
